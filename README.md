@@ -1,25 +1,9 @@
-# ReduxSimpleStarter
+# HODL
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+### About the Game
 
-### Getting Started
+Thinking about jumping onboard the cryptocurrency craze but afraid to risk your real hard-earned cash? Join up and play HODL, where you can test your crypto investment knowledge and intuition with virtual cash! Experience the rush of waking up to your coin wallet value doubling overnight, and then the heartbreak of seeing it plummet in the blink of an eye. Will you dump, or will you HODL?
 
-There are two methods for getting started with this repo.
+#### How to Play?
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
+Create an account with a unique username and password. You will start with $10,000 to purchase coins of your choice. Look up coins to see their current and historical market values. View your current coin portfolio and each of your coin's market health to help you evaluate what action to take.
